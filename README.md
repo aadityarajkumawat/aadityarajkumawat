@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Rust | Javascript | C++
-- 🌐 &nbsp; Typescript | React | HTML | CSS | JavaScript | Tailwind
+- 💻 &nbsp; Python | Typescript | Javascript | C++
+- 🌐 &nbsp; React | HTML | CSS | JavaScript | Rust
 - 🛢 &nbsp; MySQL | PostgreSQL | OracleDB
 - 🔧 &nbsp; Visual Studio code | IntelliJ Idea | Git
 - 🖥 &nbsp; Adobe Xd | Figma
